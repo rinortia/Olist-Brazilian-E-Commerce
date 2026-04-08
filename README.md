@@ -71,8 +71,9 @@
 
 Как считали:
 
-seller_delay_days = carrier_date - shipping_limit_date
-seller_late = seller_delay_days > 0
+`seller_delay_days = carrier_date - shipping_limit_date`
+
+`seller_late = seller_delay_days > 0`
 
 Как проверяли:
 
